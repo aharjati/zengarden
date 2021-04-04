@@ -1,0 +1,39 @@
+.mainTable {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.tableList {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+  padding-right: 20px;
+}
+
+.colHeader {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+
+.contentMid {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.siteListData {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: center;
+  margin: 25px;
+}
